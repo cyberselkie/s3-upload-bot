@@ -1,3 +1,3 @@
-# HOLO
+# s3 upload bot
 
-Save notes to Github via discord.
+Save images to an S3 bucket via discord.
